@@ -1,1 +1,0 @@
-/Users/Saung.Park/advent-of-code/2022/02/solution/target/debug/solution: /Users/Saung.Park/advent-of-code/2022/02/solution/src/helpers.rs /Users/Saung.Park/advent-of-code/2022/02/solution/src/main.rs /Users/Saung.Park/advent-of-code/2022/02/solution/src/types.rs
