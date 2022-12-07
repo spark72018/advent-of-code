@@ -1,6 +1,5 @@
 use std::collections::{HashMap, HashSet};
 use std::io::{prelude::*, BufReader};
-// use std::iter::FromIterator;
 use std::string::String;
 
 pub fn get_priority_map() -> HashMap<String, i32> {
